@@ -1,0 +1,25 @@
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\bom of teckla meterials.exe
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\bom of teckla meterials.deps.json
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\bom of teckla meterials.runtimeconfig.json
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\bom of teckla meterials.dll
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\bom of teckla meterials.pdb
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\ClosedXML.dll
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\ExcelNumberFormat.dll
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\Irony.dll
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\SixLabors.Fonts.dll
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\System.IO.Packaging.dll
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\XLParser.dll
+E:\c#\bom of teckla meterials\bom of teckla meterials\obj\Debug\net8.0\bom of teckla meterials.csproj.AssemblyReference.cache
+E:\c#\bom of teckla meterials\bom of teckla meterials\obj\Debug\net8.0\bom of teckla meterials.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\bom of teckla meterials\bom of teckla meterials\obj\Debug\net8.0\bom of teckla meterials.AssemblyInfoInputs.cache
+E:\c#\bom of teckla meterials\bom of teckla meterials\obj\Debug\net8.0\bom of teckla meterials.AssemblyInfo.cs
+E:\c#\bom of teckla meterials\bom of teckla meterials\obj\Debug\net8.0\bom of teckla meterials.csproj.CoreCompileInputs.cache
+E:\c#\bom of teckla meterials\bom of teckla meterials\obj\Debug\net8.0\bom of t.15077360.Up2Date
+E:\c#\bom of teckla meterials\bom of teckla meterials\obj\Debug\net8.0\bom of teckla meterials.dll
+E:\c#\bom of teckla meterials\bom of teckla meterials\obj\Debug\net8.0\refint\bom of teckla meterials.dll
+E:\c#\bom of teckla meterials\bom of teckla meterials\obj\Debug\net8.0\bom of teckla meterials.pdb
+E:\c#\bom of teckla meterials\bom of teckla meterials\obj\Debug\net8.0\bom of teckla meterials.genruntimeconfig.cache
+E:\c#\bom of teckla meterials\bom of teckla meterials\obj\Debug\net8.0\ref\bom of teckla meterials.dll
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\c#\bom of teckla meterials\bom of teckla meterials\bin\Debug\net8.0\itextsharp.dll
